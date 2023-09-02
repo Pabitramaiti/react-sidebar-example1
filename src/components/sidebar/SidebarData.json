@@ -1,0 +1,34 @@
+{
+    "sidebarData" : [
+        {
+            "title": "Home",
+            "icon": "<FcHome/>",
+            "link": "/home"
+        },
+        {
+            "title": "Mailbox",
+            "icon": "<AiOutlineMail/>",
+            "link": "/mainbox"
+        },
+        {
+            "title": "Analytics",
+            "icon": "myicon3",
+            "link": "/analytics"
+        },
+        {
+            "title": "Dashboard",
+            "icon": "myicon4",
+            "link": "/dashboard"
+        },
+        {
+            "title": "Friends",
+            "icon": "myicon5",
+            "link": "/friends"
+        },
+        {
+            "title": "Images",
+            "icon": "myicon6",
+            "link": "/images"
+        }
+    ]
+}

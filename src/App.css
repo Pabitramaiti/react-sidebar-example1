@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  height: 700px;
+  width: 100%;
+  background-color: aqua;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
